@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Benrix0
 - 👀 I’m interested in web
 - 🌱 I’m currently learning how to make a backend server
-- 💞️ I’m looking to collaborate on a click n'collect web site
 - 📫 How to reach me benrix00@gmail.com
 
 <!---
